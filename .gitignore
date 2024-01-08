@@ -2,5 +2,5 @@
 venv/
 ENV/
 env/
-db.sqlite3
-src/user/migrations/
+Authentication_Microservice/db.sqlite3
+Authentication_Microservice/src/user/migrations/
