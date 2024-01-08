@@ -1,4 +1,6 @@
-.venv/
 .venv
-.env
-migrations/
+venv/
+ENV/
+env/
+db.sqlite3
+src/user/migrations/
